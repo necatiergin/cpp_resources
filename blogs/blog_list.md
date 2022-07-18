@@ -11,11 +11,13 @@
 [foonathan blog - Jonathan Muller](https://www.foonathan.net/)<br>
 [ISOCpp Blog](https://isocpp.org/blog) <br>
 [Jason Turner](https://articles.emptycrate.com/index.html)<br>
+[Marius Bancila](https://mariusbancila.ro/blog/) <br>
 [Meeting C++ blogroll](https://www.meetingcpp.com/blog/)<br>
 [Modernes C++ - Reiner Grimm](https://www.modernescpp.com/)<br>
+[Sandor Dargo](https://www.sandordargo.com/)<br>
 [Shafikh Yaghmour](https://shafik.github.io/)<br>
 [Simplify C++ - Arne Merz](https://arne-mertz.de/)<br>
 [Sticky Bits](https://blog.feabhas.com/)<br>
-[Sutter's Mill](https://herbsutter.com/) <br>
+[Sutter's Mill - Herb Sutter](https://herbsutter.com/) <br>
 [Vorbrodt's C++ Blog](https://vorbrodt.blog/)<br>
 
