@@ -8,8 +8,10 @@
 [Eric Niebler](https://ericniebler.com/)<br>
 [Fluent C++](https://www.fluentcpp.com/)<br>
 [ISOCpp Blog](https://isocpp.org/blog) <br>
+[Meeting C++ blogroll](https://www.meetingcpp.com/blog/)<br>
 [Modernes C++](https://www.modernescpp.com/)<br>
 [Shafikh Yaghmour](https://shafik.github.io/)<br>
+[Sticky Bits](https://blog.feabhas.com/)<br>
 [Sutter's Mill](https://herbsutter.com/) <br>
 [Vorbrodt's C++ Blog](https://vorbrodt.blog/)<br>
 
