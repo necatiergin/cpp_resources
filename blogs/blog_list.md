@@ -14,6 +14,7 @@
 [Meeting C++ blogroll](https://www.meetingcpp.com/blog/)<br>
 [Modernes C++](https://www.modernescpp.com/)<br>
 [Shafikh Yaghmour](https://shafik.github.io/)<br>
+[Simplify C++ - Arne Merz](https://arne-mertz.de/)<br>
 [Sticky Bits](https://blog.feabhas.com/)<br>
 [Sutter's Mill](https://herbsutter.com/) <br>
 [Vorbrodt's C++ Blog](https://vorbrodt.blog/)<br>
