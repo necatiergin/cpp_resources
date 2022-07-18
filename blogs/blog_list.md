@@ -12,7 +12,7 @@
 [ISOCpp Blog](https://isocpp.org/blog) <br>
 [Jason Turner](https://articles.emptycrate.com/index.html)<br>
 [Meeting C++ blogroll](https://www.meetingcpp.com/blog/)<br>
-[Modernes C++](https://www.modernescpp.com/)<br>
+[Modernes C++ - Reiner Grimm](https://www.modernescpp.com/)<br>
 [Shafikh Yaghmour](https://shafik.github.io/)<br>
 [Simplify C++ - Arne Merz](https://arne-mertz.de/)<br>
 [Sticky Bits](https://blog.feabhas.com/)<br>
