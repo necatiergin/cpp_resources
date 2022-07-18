@@ -1,6 +1,6 @@
 [Andrzej's C++ Blog](https://akrzemi1.wordpress.com/)<br>
 [Arthour O'Dwyer](https://quuxplusone.github.io/blog/) <br>
-[Artificial::mind Philip Trettner](https://artificial-mind.net/)<br>
+[Artificial::mind - Philip Trettner](https://artificial-mind.net/)<br>
 [Barry Revzin](https://brevzin.github.io/posts/)<br>
 [C++ Stories](https://www.cppstories.com/) <br>
 [C++ Tips of the Week](https://abseil.io/tips/)<br>
@@ -12,6 +12,7 @@
 [foonathan blog - Jonathan Muller](https://www.foonathan.net/)<br>
 [ISOCpp Blog](https://isocpp.org/blog) <br>
 [Jason Turner](https://articles.emptycrate.com/index.html)<br>
+[Lesley Lai](https://lesleylai.info/)<br>
 [Marius Bancila](https://mariusbancila.ro/blog/) <br>
 [Meeting C++ blogroll](https://www.meetingcpp.com/blog/)<br>
 [Modernes C++ - Reiner Grimm](https://www.modernescpp.com/)<br>
