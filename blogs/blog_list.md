@@ -19,5 +19,6 @@
 [Simplify C++ - Arne Merz](https://arne-mertz.de/)<br>
 [Sticky Bits](https://blog.feabhas.com/)<br>
 [Sutter's Mill - Herb Sutter](https://herbsutter.com/) <br>
+[Timur Doumler](https://timur.audio/)<br>
 [Vorbrodt's C++ Blog](https://vorbrodt.blog/)<br>
 
