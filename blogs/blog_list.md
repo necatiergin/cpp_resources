@@ -1,5 +1,6 @@
 [Andrzej's C++ Blog](https://akrzemi1.wordpress.com/)<br>
 [Arthour O'Dwyer](https://quuxplusone.github.io/blog/) <br>
+[Artificial::mind Philip Trettner](https://artificial-mind.net/)<br>
 [Barry Revzin](https://brevzin.github.io/posts/)<br>
 [C++ Stories](https://www.cppstories.com/) <br>
 [C++ Tips of the Week](https://abseil.io/tips/)<br>
@@ -14,6 +15,7 @@
 [Marius Bancila](https://mariusbancila.ro/blog/) <br>
 [Meeting C++ blogroll](https://www.meetingcpp.com/blog/)<br>
 [Modernes C++ - Reiner Grimm](https://www.modernescpp.com/)<br>
+[Olexandr Koval](https://oleksandrkvl.github.io/)<br>
 [Sandor Dargo](https://www.sandordargo.com/)<br>
 [Shafikh Yaghmour](https://shafik.github.io/)<br>
 [Simplify C++ - Arne Merz](https://arne-mertz.de/)<br>
