@@ -2,6 +2,7 @@
 [Arthour O'Dwyer](https://quuxplusone.github.io/blog/) <br>
 [Artificial::mind - Philip Trettner](https://artificial-mind.net/)<br>
 [Barry Revzin](https://brevzin.github.io/posts/)<br>
+[C++ on a Friday](https://blog.knatten.org/)<br>
 [C++ Stories](https://www.cppstories.com/) <br>
 [C++ Tips of the Week](https://abseil.io/tips/)<br>
 [cor3ntin](https://cor3ntin.github.io/)<br>
